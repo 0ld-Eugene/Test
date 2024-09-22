@@ -1,0 +1,32 @@
+.container {
+   padding: 100px 0;
+   text-align: center;
+}
+
+.header {
+   background-color: #f78f8f;
+
+}
+
+.grid__contaner {
+   background-color: #7fdbff;
+   display: grid;
+   width: 100%;
+   grid-template-columns: repeat(4, 25%);
+}
+
+.block {
+   border: 1px solid #000;
+   display: flex;
+   justify-content: center;
+}
+
+.info {
+   background-color: #f78f8f;
+
+}
+
+.copyright {
+   background-color: #7fdbff;
+
+}
